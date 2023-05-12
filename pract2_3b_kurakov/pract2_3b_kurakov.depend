@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678190315 source:d:\project\pract2_3b_kurakov\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<cstring>
+

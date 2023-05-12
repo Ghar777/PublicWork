@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676988462 source:d:\project\pract1_6b_kurakov\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<string.h>
+
