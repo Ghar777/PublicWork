@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663316460 source:d:\project\lab_1_4b_kurakov\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+

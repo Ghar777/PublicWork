@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667545740 source:d:\project\lab3_1b_kurakov\main.cpp
+	<iomanip>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<clocale>
+	<algorithm>
+
