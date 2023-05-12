@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681468881 source:d:\project\laba2_4b_kurakov\main.cpp
+	<iostream>
+	<ostream>
+	"fraction.h"
+
+1681468778 d:\project\laba2_4b_kurakov\include\fraction.h
+	<iostream>
+	<ostream>
+
+1681469384 source:d:\project\laba2_4b_kurakov\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<ostream>
+	<cmath>
+

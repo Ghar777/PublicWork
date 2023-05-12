@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680854394 source:d:\project\laba2_3b_kurakov\main.cpp
+	<iostream>
+	<time.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680246484 source:d:\project\laba2_1b_kurakov\main.cpp
+	<time.h>
+	<ostream>
+	<iostream>
+	<cassert>
+	"my_vector.h"
+
+1680254002 d:\project\laba2_1b_kurakov\my_vector.h
+	<cassert>
+	<time.h>
+	<ostream>
+	<iostream>
+

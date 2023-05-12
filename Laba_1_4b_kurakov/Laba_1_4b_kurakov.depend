@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683753708 source:d:\project\laba_1_4b_kurakov\main.cpp
+	<iostream>
+	<cassert>
+	<cstring>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682459682 source:d:\project\laba3_2b_kurakov\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+

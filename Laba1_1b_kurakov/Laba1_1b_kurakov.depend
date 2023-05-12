@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679403910 source:d:\project\laba1_1b_kurakov\main.cpp
+	<fstream>
+	<iostream>
+
